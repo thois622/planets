@@ -1,1 +1,4 @@
-Mars is a planet in space. It is also known as the red planet (although there are other red plants in our solar system).
+Mars is a planet in space. 
+It is also known as the red planet (although there are other red plants in our solar system).
+
+Currently there are initiatives to send humans to mars, with a longer term goal of colonising mars.
